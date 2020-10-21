@@ -1,6 +1,9 @@
 # Bluetooth_Terminal_Serial
 App for transceiver data with Bluetooth 2.0
 
+This project work together this project:<br>
+https://github.com/mariliahoshino/CAN_Interface_board
+
 
 
 
