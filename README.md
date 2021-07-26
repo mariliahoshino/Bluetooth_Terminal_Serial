@@ -1,3 +1,7 @@
+
+### <a href="https://github.com/mariliahoshino"> My profile </a> <br>
+
+
 # Bluetooth_Terminal_Serial
 App for transceiver data with Bluetooth 2.0
 
